@@ -1,3 +1,4 @@
+#Primeiro pipeline 
 terraform {
     required_providers {
         docker = {
